@@ -26,7 +26,7 @@
 <li>📫 Contáctame:👀📌</li>
 <div>
     <a href="https://www.linkedin.com/in/jorgeperezj/">
-        <img align="left" style="margin-right:5px;" alt="Jorge's Linkedin" title="Linkedin" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
+        <img align="left" style="margin-right:5px;" alt="Jorge's Linkedin" title="Linkedin" width="22px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png" />
     </a>
     <a href="https://github.com/jorgeperezj/">
 	<img align="left" style="margin-right:5px;" alt="Jorge's GitHub" title="GitHub" width="22px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/github-256.png" />
