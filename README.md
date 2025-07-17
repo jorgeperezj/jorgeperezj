@@ -5,8 +5,8 @@
     - Soy Tecnólogo en Análisis y Desarrollo de Sistemas de Información.
 </p>
 
-🐞 QA Tester.<br>
-👨‍💻 Desarrollador.
+👨‍💻 Desarrollador Back.<br>
+🐞 QA Tester.
 
 ![PHP](https://img.shields.io/badge/-PHP-black?logo=php&style=flathttps://img.shields.io/badge/-PHP-black?logo=php&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat)
@@ -20,14 +20,14 @@
 
 ![Git](https://img.shields.io/badge/-Git-white?logo=git&style=flat)
 
-<li>💻 Actualmente estoy trabajando en <b>Synaptek - DentOS</b> como <b>QA Tester y Desarrollador Backend</b></li>
-<li>🌱 Actualmente estoy aprendiendo <b>Laravel y NodeJS.</b></li>
+<li>💻 Actualmente estoy trabajando en <b>Synaptek - DentOS</b> como <b>Desarrollador Backend</b></li>
+<li>🌱 Actualmente estoy aprendiendo <b>Laravel, JavaScript y NodeJS.</b></li>
 <li>😎 Estudiante de Platzi 💚 - 👉<a href="https://platzi.com/p/Jorgeperezj/"><b>Mi Perfil</b></a></li>
 <li>😜 Actividades divertidas: 🎧🎻 Música, 🚴🏻Ciclismo, 📺 TvSeries, 👨‍💻 Programar.</li>
 <li>📫 Contáctame:👀📌</li>
 <div>
     <a href="https://www.linkedin.com/in/jorgeperezj/">
-        <img align="left" style="margin-right:5px;" alt="Jorge's Linkedin" title="Linkedin" src="https://img.shields.io/badge/-blue?logo=linkedin&style=flat" />
+        <img align="left" style="margin-right:5px;" alt="Jorge's Linkedin" title="Linkedin" src="https://cdn-icons-png.flaticon.com/512/2496/2496097.png" />
     </a>
     <a href="https://github.com/jorgeperezj/">
 	<img align="left" style="margin-right:5px;" alt="Jorge's GitHub" title="GitHub" src="https://img.shields.io/badge/-black?logo=github&style=flat" />
