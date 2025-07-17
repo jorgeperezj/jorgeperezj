@@ -25,9 +25,9 @@
 <li>😎 Estudiante de Platzi 💚 - 👉<a href="https://platzi.com/p/Jorgeperezj/"><b>Mi Perfil</b></a></li>
 <li>😜 Actividades divertidas: 🎧🎻 Música, 🚴🏻Ciclismo, 📺 TvSeries, 👨‍💻 Programar.</li>
 <li>📫 Contáctame:👀📌</li>
-<div>
+<div style="margin-left: 25px;">
     <a href="https://www.linkedin.com/in/jorgeperezj/">
-        <img align="left" style="margin-right:5px;" alt="Jorge's Linkedin" title="Linkedin" src="https://cdn-icons-png.flaticon.com/512/2496/2496097.png" />
+        <img align="left" style="margin-right:5px; width: 22px" alt="Jorge's Linkedin" title="Linkedin" src="https://cdn-icons-png.flaticon.com/512/2496/2496097.png" />
     </a>
     <a href="https://github.com/jorgeperezj/">
 	<img align="left" style="margin-right:5px;" alt="Jorge's GitHub" title="GitHub" src="https://img.shields.io/badge/-black?logo=github&style=flat" />
